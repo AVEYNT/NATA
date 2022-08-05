@@ -9,7 +9,7 @@
         "name": "Instagram",
         "color": "#bc2a8d",
         "icon": "instagram",
-        "url": "https://www.instagram.com/natanot"
+        "url": "https://www.instagram.com/"
 	},
     {
         "name": "Github",
@@ -21,12 +21,12 @@
         "name": "Twitter",
         "color": "#00acee",
         "icon": "twitter",
-        "url": "https://twitter.com/AVEYNT"
+        "url": "https://twitter.com"
 	},
     {
         "name": "Discord",
         "color": "#7289da",
         "icon": "discord",
-        "url": "https://discord.gg/5dda5k5"
+        "url": "https://discord.gg"
 	}
 ]

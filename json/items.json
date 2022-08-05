@@ -1,38 +1,8 @@
 [
     {
-        "name": "Fade Mirror Bot",
+        "name": "Telegram Fade Mirror Bot",
         "description": "Fade Mirror bot,focus on mirroring url to Gdrive. \n click visit to this bot. \n have fun 😘",
-        "image": "images/fademr.jpg",
-        "link": "https://t.me//gabisadieditbot"
-	},
-    {
-        "name": "Telegram Eunha Gdrive Clone",
-        "description": "This bot can clone gdrive link from Gdrive \n and you can download it by index link. \n click visit to use this bot. ",
-        "image": "images/image2.jpg",
-        "link": "http://t.me//EunhaGdriveBot"
-	},
-    {
-        "name": "Telegram Eunha Deezer downloader",
-        "description": "This boot is great for downloading music from Deezer \n just send the Deezer link the album / single track. \n and it will send it to you automatically. \n click visit to go to the bot. \n don't forget to use help.",
-        "image": "images/image3.jpg",
-        "link": "https://t.me/eunhadeezbot"
-	},
-    {
-        "name": "Telegram Eunha mirror bot",
-        "description": "The best bot to download any direct link and upload it to gdrive. \n This bot has many functions such as downloading torrent and YouTube \n even YouTube playlists 😅 \n click visit to see the bot.",
-        "image": "images/image4.jpg",
-        "link": "https://t.me/EunhaMirror"
-	},
-    {
-        "name": "Telegram Eunha Sosmed Downloader",
-        "description": "She can download Twitter & Instagram. \n Even Stories Instagram \n click visit to see the bot.",
-        "image": "images/image5.jpg",
-        "link": "https://t.me/EunhaDownloaderBot"
-	},
-    {
-        "name": "Telegram Eunha Youtube Downloader",
-        "description": "She can download Video and audio from YouTube. \n Then upload on telegram \n click visit to see the bot.",
-        "image": "images/image6.jpg",
-        "link": "https://t.me/EunhaYtdlbot"
+        "image": "images/img1.jpg",
+        "link": "https://t.me//gabisaeditbot"
 	}
 ]
