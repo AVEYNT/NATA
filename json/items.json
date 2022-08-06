@@ -1,8 +1,20 @@
 [
     {
-        "name": "Telegram Fade Mirror Bot",
+        "name": "Fade Mirror Bot",
         "description": "Fade Mirror bot,focus on mirroring url to Gdrive. \n click visit to this bot. \n have fun 😘",
         "image": "images/img1.jpg",
-        "link": "https://t.me//gabisaeditbot"
+        "link": "https://t.me/gabisaeditbot"
+	},
+    {
+        "name": "Anime Signal",
+        "description": "Anime Signal,focus on updating Japanese anime series. \n click visit to this channel. \n have a nice day",
+        "image": "images/img2.jpg",
+        "link": "https://t.me/AnimeSignal"
+	},
+    {
+        "name": "Backup Custom Rom",
+        "description": "This project aims to make a copy of the file in case at any time a link doesn't work. \n click visit to this channel. \n Happy Laggy😂",
+        "image": "images/img3.jpg",
+        "link": "https://t.me/ambilaja"
 	}
 ]
